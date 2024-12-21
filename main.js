@@ -3,6 +3,8 @@ import MainMenu from './scenes/MainMenu.js';
 import SubmarineShooter from './scenes/SubmarineShooter.js';
 import GameOver from './scenes/GameOver.js';
 
+// Retroactive commit for 12-21-2024
+
 const config = {
     type: Phaser.AUTO,
     width: window.innerWidth,
