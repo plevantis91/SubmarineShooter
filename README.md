@@ -1,6 +1,6 @@
 # Submarine Shooter (Phaser + Vite + Yarn)
 
-A browser-based port of the Pygame submarine shooter, built with Phaser 3, Vite, and Yarn.
+A browser-based submarine shooter game built with Phaser 3 and Yarn.
 
 ## 🚀 Getting Started
 
