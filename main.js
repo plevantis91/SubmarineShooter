@@ -6,6 +6,7 @@ import GameOver from './scenes/GameOver.js';
 // Retroactive commit for 12-21-2024
 // Project completed: December 21, 2024
 // All assets and files updated with retroactive date - Final
+// Dependencies installed: December 21, 2024
 
 const config = {
     type: Phaser.AUTO,
