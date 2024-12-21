@@ -1,6 +1,4 @@
 # Submarine Shooter (Phaser + Vite + Yarn)
-<!-- Project completed: December 21, 2024 -->
-<!-- All files updated with retroactive completion date - Final -->
 
 A browser-based port of the Pygame submarine shooter, built with Phaser 3, Vite, and Yarn.
 

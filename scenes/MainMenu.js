@@ -1,5 +1,4 @@
 import Phaser from "phaser";
-// Retroactive update for 12-21-2024 - Final
 
 export default class MainMenu extends Phaser.Scene {
   constructor() {
