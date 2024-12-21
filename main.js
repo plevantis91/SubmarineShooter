@@ -4,6 +4,8 @@ import SubmarineShooter from './scenes/SubmarineShooter.js';
 import GameOver from './scenes/GameOver.js';
 
 // Retroactive commit for 12-21-2024
+// Project completed: December 21, 2024
+// All assets and files updated with retroactive date
 
 const config = {
     type: Phaser.AUTO,
